@@ -42,10 +42,9 @@
             this.label1.Font = new System.Drawing.Font("Century Gothic", 9.75F);
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(272, 102);
+            this.label1.Size = new System.Drawing.Size(101, 17);
             this.label1.TabIndex = 1;
-            this.label1.Text = "\r\nMissael Everardo Martinez Salinas 1490379\r\n\r\n\r\n\r\nMartin Eduardo Rosas Gonzalez " +
-    "1535436";
+            this.label1.Text = "ECCE SISTEMAS";
             // 
             // label2
             // 
